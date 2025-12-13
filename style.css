@@ -64,7 +64,7 @@ section h2 {
 }
 
 .poem-card {
-  background-color: #262B40;
+  background-color: transparent;
   border-radius: 8px;
   padding: 20px;
   box-shadow: 0 2px 6px rgba(15, 23, 42, 0.12);
